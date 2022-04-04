@@ -5,8 +5,8 @@
       "make": "Volvo",
       "model": "XC40",
       "price": "20000",
-      "fuelType": "Diesel"
-      "colour": "Grey"
+      "fuelType": "Diesel",
+      "colour": "Grey",
       "mileage": "55000",
       "manual": true
     },
@@ -15,8 +15,8 @@
       "make": "BMW",
       "model": "Series 1",
       "price": "15000",
-      "fuelType": "Petrol"
-      "colour": "White"
+      "fuelType": "Petrol",
+      "colour": "White",
       "mileage": "85000",
       "manual": false
     }
